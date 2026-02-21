@@ -64,6 +64,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sasanka20000731&theme=onedark&no-frame=true&row=1&column=6" />
   <img src="https://github-profile-trophy.vercel.app/?username=Sasanka20000731&theme=tokyonight" />
+      <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github" />
 
 </p>
 
