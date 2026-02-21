@@ -1,29 +1,51 @@
 <h1 align="center">Hi 👋, I'm Sasanka Buddhi</h1>
-<h3 align="center">Senior Software Engineer (SSE Candidate) | Angular & .NET Developer | AI Enthusiast</h3>
+<h3 align="center">Senior Software Engineer (SSE Candidate) | Full Stack Developer | System Architect</h3>
 
 <p align="center">
-  <a href="https://github.com/Sasanka20000731">
-    <img src="https://komarev.com/ghpvc/?username=Sasanka20000731&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sasanka20000731&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Working with **Angular 16 & .NET 8 Web API**
-- 🧠 Exploring **AI, OpenCV & Computer Vision**
-- 🏗️ Building real-world systems (POS, ERP, HR, Student Management)
-- 🎯 Goal: Become a strong **Senior Software Engineer**
+- 💼 Full Stack Developer specialized in **Angular, React & .NET 8**
+- 🏗️ Designing scalable enterprise systems (ERP, POS, HR, Student Management)
+- 🐳 Working with **Docker-based deployments**
+- ⚡ Implementing **RabbitMQ for message-driven architectures**
+- 🌐 Deploying applications using **IIS**
+- 🧠 Exploring AI, OpenCV & Computer Vision
+- 🎯 Goal: Strong Senior Software Engineer with Architecture expertise
 - 🌍 Based in Sri Lanka
-- 🚀 Passionate about clean architecture & scalable systems
 
 ---
 
 ## 🛠 Tech Stack
 
+### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,python,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙ DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -53,18 +75,19 @@
 
 ## 🚀 Current Focus
 
-- 🔥 Mastering Advanced Angular Architecture
-- ⚡ Optimizing .NET 8 Performance
-- 🤖 AI-based Smart Applications
-- 🏗️ Designing Scalable Enterprise Systems
+- 🔥 Enterprise Angular Architecture
+- ⚡ High-performance .NET 8 APIs
+- 🐳 Dockerized microservices
+- 📬 Event-driven systems with RabbitMQ
+- ☁ Production-ready deployments with IIS
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+- 💼 LinkedIn: www.linkedin.com/in/sasanka-buddhi-84b333239
+- 📧 Email: sasankabuddhi@gmail.com
 
 ---
 
-⭐ *"Code is not just syntax. It is problem-solving with discipline."*
+⭐ *"I build systems that scale, perform, and solve real-world problems."*
