@@ -59,22 +59,14 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasanka20000731&theme=onedark&no-frame=true&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasanka20000731&theme=tokyonight" />
-      <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github" />
-
-</p>
-
-## 🏅 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/Sasanka20000731?tab=achievements">
-    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View-My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 
 ---
