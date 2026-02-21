@@ -53,7 +53,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasanka20000731&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=Sasanka20000731&theme=tokyonight" />
 </p>
 
@@ -66,9 +65,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sasanka20000731&theme=onedark&no-frame=true&row=1&column=6" />
   
 </p>
+
+## 🏅 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sasanka20000731&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <a href="https://github.com/Sasanka20000731?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
 
 ---
 
